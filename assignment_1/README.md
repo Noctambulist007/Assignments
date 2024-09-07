@@ -11,7 +11,8 @@ This repository demonstrates a simple Flutter application showcasing various com
 
 ## Screenshots
 
-![HomeScreen](assets/demo_screenshot.png)
+<img width="416" alt="Screenshot 2024-09-07 at 9 15 21 PM" src="https://github.com/user-attachments/assets/9e4000e3-3d44-4192-8f12-672499fb33d8">
+
 
 ## Getting Started
 
