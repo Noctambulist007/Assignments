@@ -1,16 +1,23 @@
-# assignment_1
+# Flutter Components Demo
 
-A new Flutter project.
+This repository demonstrates a simple Flutter application showcasing various components such as Buttons, TextView, ImageView, and Toasts. The project is intended for Flutter developers to get a quick overview of how to use these common components in their applications.
+
+## Features
+
+- **Button**: Triggers an action when pressed.
+- **TextView**: Displays styled text using Flutter's `Text` widget.
+- **ImageView**: Renders an image from assets.
+- **Toast**: Shows a temporary message on the screen.
+
+## Screenshots
+
+![HomeScreen](assets/demo_screenshot.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+To run this project, ensure you have the following installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
