@@ -1,4 +1,4 @@
-# Flutter Components Demo
+# Assignment 2
 
 This repository demonstrates a simple Flutter application showcasing various components such as Buttons, TextView, ImageView, and Toasts. The project is intended for Flutter developers to get a quick overview of how to use these common components in their applications.
 
