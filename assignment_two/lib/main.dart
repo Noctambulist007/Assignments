@@ -10,15 +10,15 @@ class MoodTrackerApp extends StatelessWidget {
       title: 'Mood Tracker',
       theme: ThemeData(
         primarySwatch: Colors.teal,
-        brightness: Brightness.dark, // Dark mode for a modern look
+        brightness: Brightness.dark,
         visualDensity: VisualDensity.adaptivePlatformDensity,
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            backgroundColor: Colors.tealAccent, // Bright button color
-            overlayColor: Colors.black, // Text color on button
+            backgroundColor: Colors.tealAccent, 
+            overlayColor: Colors.black, 
             padding: EdgeInsets.symmetric(vertical: 14, horizontal: 24),
             shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(16), // Rounded corners
+              borderRadius: BorderRadius.circular(16), 
             ),
             textStyle: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
           ),
@@ -46,8 +46,8 @@ class _MoodTrackerHomePageState extends State<MoodTrackerHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Daily Mood Tracker'),
-        centerTitle: true, // Centers the title in the AppBar
-        elevation: 10, // Adds a shadow to the AppBar
+        centerTitle: true, 
+        elevation: 10, 
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),
