@@ -1,16 +1,14 @@
-# assignment_two
+# Assignment 2
 
-A new Flutter project.
+This is a simple Flutter app to track your daily mood, exercise, meditation, sleep, and activities. 
 
-## Getting Started
+## Features:
+- Mood rating on a scale of 1-5.
+- Toggle switches for daily exercise and meditation.
+- Radio options for selecting the main activity of the day.
+- Slider to track sleep hours.
+- A button to save your daily log with a feedback message.
 
-This project is a starting point for a Flutter application.
+# Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="406" alt="Screenshot 2024-09-25 at 5 53 12 PM" src="https://github.com/user-attachments/assets/853d943c-d56c-4ee5-a897-26bd3874f545">
